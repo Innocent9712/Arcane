@@ -1,6 +1,8 @@
 ## Usage
 ---
-Just run the command `./setup_mysql_service.sh` or `./setup_mysql.sh` (For Ubuntu 18 and above)
+Clone this repo and run `cd MySQL/` from your command line while inside the repo.
+
+Then run the command `./setup_mysql_service.sh` or `./setup_mysql.sh` (For Ubuntu 18 and above)
 
 When asked for the password for root user: This password is needed to complete installation for MySQL 8.*. It would be remove after setup.
 
